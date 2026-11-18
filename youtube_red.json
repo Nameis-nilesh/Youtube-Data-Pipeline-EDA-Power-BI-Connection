@@ -1,0 +1,21 @@
+{
+  "name": "YouTube Maroon",
+  "dataColors": [
+    "#FF0000",
+    "#CC0000",
+    "#FF4D4D",
+    "#990000",
+    "#FF8080",
+    "#FFB3B3",
+    "#660000",
+    "#AAAAAA"
+  ],
+  "background": "#3D0008",
+  "secondaryBackground": "#5C0A14",
+  "tertiaryBackground": "#7A1420",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF0000",
+  "minimum": "#4D0000",
+  "center": "#CC0000",
+  "maximum": "#FF6666"
+}
