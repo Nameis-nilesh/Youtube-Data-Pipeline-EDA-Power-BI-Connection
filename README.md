@@ -21,6 +21,19 @@
 This project is a complete data analytics workflow built around YouTube channels that teach **data analytics, data science and Power BI**. Channel and video statistics are pulled from the **YouTube Data API v3** using Python, stored in **MySQL**, explored with advanced SQL (CTEs, window functions, stored procedures), and finally visualized in an interactive **Power BI** dashboard with a custom YouTube-themed colour palette.
 
 
+📸 Dashboard Preview
+Dashboard Page 1
+
+Dashboard Page 2
+
+Want to explore it yourself?
+
+File	What it is
+📄 YoutubeAnalyticsDashboard.pdf	Printable snapshot of the dashboard. Open it in any PDF viewer.
+📈 YoutubeAnalyticsDashboard.pbix	The fully interactive Power BI file (needs Power BI Desktop).
+🎨 youtube_red.json	The custom YouTube-red Power BI theme that gives the dashboard its look and colors.
+
+
 ## 🏗️ Project Architecture
 
 ```
